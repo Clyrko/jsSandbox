@@ -2,7 +2,7 @@ const firstName = 'William';
 const lastName = 'Smith';
 const age = 22;
 const str = 'Hello there my name is Jay';
-const tags = 'web development, artist, design, programming'
+const tags = 'web development, artist, design, programming';
 
 let val;
 
