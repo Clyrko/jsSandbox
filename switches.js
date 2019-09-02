@@ -11,3 +11,35 @@ switch (color){
     console.log('Color is not red or blue');
     break;
 }
+
+let day;
+
+switch (new Date().getDay()){
+  case 0:
+    day = 'Sunday';
+    break;
+
+  case 0:
+    day = 'Monday';
+    break;
+
+  case 0:
+    day = 'Tuesday';
+    break;
+
+  case 0:
+    day = 'Wednesday';
+    break;
+
+  case 0:
+    day = 'Thursday';
+    break;
+
+  case 0:
+    day = 'Friday';
+    break;
+
+  case 0:
+    day = 'Saturday';
+    break;
+}
